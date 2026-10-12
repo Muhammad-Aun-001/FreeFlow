@@ -4,6 +4,8 @@ Fast video object segmentation by predicting the attention output of SAM 2's
 Hiera encoder instead of computing it, without retraining, distillation, or
 checkpoint modification.
 
+https://github.com/YOUR_USERNAME/YOUR_REPO/assets/VIDEO_ID/explanation.mp4
+
 ## What it does
 
 SAM 2's Hiera image encoder runs on every frame and dominates inference cost.
